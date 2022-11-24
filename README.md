@@ -1,5 +1,5 @@
 ### WELCOME TO MY ACCOUNT
-![logo](https://scontent.fdac23-1.fna.fbcdn.net/v/t1.6435-9/158289050_2559952004298456_8848406000681823195_n.jpg?stp=dst-jpg_p640x640&_nc_cat=109&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHncpyG04kKeSHD3fY4uPIO_Nst49d-Ahz82y3j134CHJ9BFKPNDGE3nE0AaovLNENwHcRWN9JuolT0mWoWv1DV&_nc_ohc=qCLSlItkQuQAX8qs-2t&_nc_ht=scontent.fdac23-1.fna&oh=00_AT8U1VEa0hSAi5sY3rx0VRQkJfnY4dkThQYakz-PFT3obA&oe=628A0346)
+![logo](https://scontent.fdac23-1.fna.fbcdn.net/v/t1.6435-9/158289050_2559952004298456_8848406000681823195_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeHncpyG04kKeSHD3fY4uPIO_Nst49d-Ahz82y3j134CHJ9BFKPNDGE3nE0AaovLNENwHcRWN9JuolT0mWoWv1DV&_nc_ohc=my9y_T5HoRAAX9vcuZV&_nc_ht=scontent.fdac23-1.fna&oh=00_AfABuckh7jiITewx0AYC4JwLIljF-LPtOFiqf35HxA9tVQ&oe=63A6C746)
 
 
 Skills: c/c++/web developing/Assembly/design
