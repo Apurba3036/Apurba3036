@@ -12,45 +12,6 @@ Currently working as an **Artificial Intelligence Engineer** at **BacBon Limited
 
 ---
 
-## 💼 Professional Experience
-
-### 🤖 Artificial Intelligence Engineer
-**BacBon Limited** | 📅 June 2025 – Present | 📍 Banasree, Dhaka, Bangladesh
-
-Working on advanced AI systems, focusing on generative AI models, language understanding, and automation tools to drive intelligent solutions in real-world applications.
-
-### 🤖 Manager of Robotics Wing
-**IUBAT IT Society** | 📅 January 2022 – October 2024 | 📍 Uttara, Dhaka, Bangladesh
-
-Led a team in organizing tech-based events, coding contests, and workshops. Played a key role in building collaborations, mentoring junior members, and fostering a strong tech community.
-
-### ⛓️ Intern – Blockchain Development
-**Simmec System Limited** | 📅 June 2023 – March 2024 | 📍 Uttara, Dhaka, Bangladesh
-
-Worked on blockchain-based solutions using Ethereum and smart contracts. Gained hands-on experience with Solidity, Web3.js, and tools like MetaMask, Truffle, and Ganache. Contributed to the development and testing of decentralized applications (dApps).
-
-### ✍️ Assistant Content Writer
-**IUBAT Mathematics Society** | 📅 January 2021 – 2022 | 📍 Uttara, Dhaka, Bangladesh
-
-Prepared educational and promotional content for academic events and publications. Supported content development for math competitions, seminars, and knowledge-sharing initiatives.
-
----
-
-## 🏆 Achievements & Competitions
-
-- 🥇 **Hult Prize 2023**: Champion at IUBAT, Dhaka & Selected for Regional Competition in Mumbai, India
-- 🏅 **[Technocrats V.2 Hackathon](https://www.facebook.com/share/1AAD4NNY8v/)**: "Top Rising Team" title & 4th place in IUBAT Dhaka Divisional Hackathon (2024)
-- 🎯 **[Programming Hero National Hackathon 2024](https://www.facebook.com/share/16iEGajtyN/)**: Selected for Finals at East West University National RoboFest 2024
-- 📊 **AI Quest Bangla Sentiment Analysis**: 21st ranking on Kaggle Platform
-- 🤖 **AI 2/DL for NLP - 2025**: 32nd ranking in Homework 2
-- 🔥 **[Open AI Hackathon](https://www.facebook.com/share/1G2s7PHshJ/)**: Top 10 teams at Islamic University of Technology National ICT Fest 2024
-- 🌍 **[Bolt.new AI Hackathon](https://devpost.com/software/vlogguideai)**: Participated in World's Largest AI Hackathon - VlogGuideAI Project
-- ⛓️ **[HackTheVerse by IIT](https://www.facebook.com/share/19NzZUm2UV/)**: Team Blockbuster selected in Blockchain segment prelims (University of Dhaka, 2023)
-- 💻 **[SUST CSE Fest](https://www.facebook.com/share/16SLyjMspg/)**: Top 32 teams for onsite Hackathon (Shahjalal University, 2024)
-- 🏃 **CodeSamurai 2024**: Participated in IIT, University of Dhaka contest
-- 📈 **Datathon by Robi**: Participated in 2024 competition
-- 🧠 **AI for Bangla 3.0**: Submitted innovative concept (2024)
-
 ---
 
 ## 🛠️ Tech Stack
@@ -110,6 +71,46 @@ Prepared educational and promotional content for academic events and publication
 **Blockchain Tools**: MetaMask, Ganache, Truffle, IPFS
 
 ---
+
+## 💼 Professional Experience
+
+### 🤖 Artificial Intelligence Engineer
+**BacBon Limited** | 📅 June 2025 – Present | 📍 Banasree, Dhaka, Bangladesh
+
+Working on advanced AI systems, focusing on generative AI models, language understanding, and automation tools to drive intelligent solutions in real-world applications.
+
+### 🤖 Manager of Robotics Wing
+**IUBAT IT Society** | 📅 January 2022 – October 2024 | 📍 Uttara, Dhaka, Bangladesh
+
+Led a team in organizing tech-based events, coding contests, and workshops. Played a key role in building collaborations, mentoring junior members, and fostering a strong tech community.
+
+### ⛓️ Intern – Blockchain Development
+**Simmec System Limited** | 📅 June 2023 – March 2024 | 📍 Uttara, Dhaka, Bangladesh
+
+Worked on blockchain-based solutions using Ethereum and smart contracts. Gained hands-on experience with Solidity, Web3.js, and tools like MetaMask, Truffle, and Ganache. Contributed to the development and testing of decentralized applications (dApps).
+
+### ✍️ Assistant Content Writer
+**IUBAT Mathematics Society** | 📅 January 2021 – 2022 | 📍 Uttara, Dhaka, Bangladesh
+
+Prepared educational and promotional content for academic events and publications. Supported content development for math competitions, seminars, and knowledge-sharing initiatives.
+
+---
+
+## 🏆 Achievements & Competitions
+
+- 🥇 **Hult Prize 2023**: Champion at IUBAT, Dhaka & Selected for Regional Competition in Mumbai, India
+- 🏅 **[Technocrats V.2 Hackathon](https://www.facebook.com/share/1AAD4NNY8v/)**: "Top Rising Team" title & 4th place in IUBAT Dhaka Divisional Hackathon (2024)
+- 🎯 **[Programming Hero National Hackathon 2024](https://www.facebook.com/share/16iEGajtyN/)**: Selected for Finals at East West University National RoboFest 2024
+- 📊 **AI Quest Bangla Sentiment Analysis**: 21st ranking on Kaggle Platform
+- 🤖 **AI 2/DL for NLP - 2025**: 32nd ranking in Homework 2
+- 🔥 **[Open AI Hackathon](https://www.facebook.com/share/1G2s7PHshJ/)**: Top 10 teams at Islamic University of Technology National ICT Fest 2024
+- 🌍 **[Bolt.new AI Hackathon](https://devpost.com/software/vlogguideai)**: Participated in World's Largest AI Hackathon - VlogGuideAI Project
+- ⛓️ **[HackTheVerse by IIT](https://www.facebook.com/share/19NzZUm2UV/)**: Team Blockbuster selected in Blockchain segment prelims (University of Dhaka, 2023)
+- 💻 **[SUST CSE Fest](https://www.facebook.com/share/16SLyjMspg/)**: Top 32 teams for onsite Hackathon (Shahjalal University, 2024)
+- 🏃 **CodeSamurai 2024**: Participated in IIT, University of Dhaka contest
+- 📈 **Datathon by Robi**: Participated in 2024 competition
+- 🧠 **AI for Bangla 3.0**: Submitted innovative concept (2024)
+
 
 ## 📊 GitHub Stats
 
