@@ -97,16 +97,16 @@ Working on advanced AI systems, focusing on generative AI models, language under
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Apurba3036&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurba3036&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurba3036&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Apurba3036&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ Working on advanced AI systems, focusing on generative AI models, language under
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Apurba3036&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ### 💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs
   
