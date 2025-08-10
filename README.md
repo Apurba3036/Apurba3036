@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm Apurba
+# 👋 Hi there, I'm Apurba — welcome to my GitHub space!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Tech+Enthusiast;AI+Engineer+%40+BacBon+Limited;Blockchain+%26+Web+Developer;Machine+Learning+Specialist&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Tech+Enthusiast;AI+Engineer+%40+BacBon+Limited;Blockchain+%26+Web+Developer;Machine+Learning&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=22">
 </div>
 
 ## 🚀 About Me
