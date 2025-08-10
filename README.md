@@ -19,31 +19,34 @@ Currently working as an **Artificial Intelligence Engineer** at **BacBon Limited
 
 Working on advanced AI systems, focusing on generative AI models, language understanding, and automation tools to drive intelligent solutions in real-world applications.
 
+### 🤖 Manager of Robotics Wing
+**IUBAT IT Society** | 📅 January 2022 – October 2024 | 📍 Uttara, Dhaka, Bangladesh
+
+Led a team in organizing tech-based events, coding contests, and workshops. Played a key role in building collaborations, mentoring junior members, and fostering a strong tech community.
 
 ### ⛓️ Intern – Blockchain Development
 **Simmec System Limited** | 📅 June 2023 – March 2024 | 📍 Uttara, Dhaka, Bangladesh
 
 Worked on blockchain-based solutions using Ethereum and smart contracts. Gained hands-on experience with Solidity, Web3.js, and tools like MetaMask, Truffle, and Ganache. Contributed to the development and testing of decentralized applications (dApps).
 
-### 🤖 Manager of Robotics Wing
-**IUBAT IT Society** | 📅 January 2022 – October 2024 | 📍 Uttara, Dhaka, Bangladesh
+### ✍️ Assistant Content Writer
+**IUBAT Mathematics Society** | 📅 January 2021 – 2022 | 📍 Uttara, Dhaka, Bangladesh
 
-Led a team in organizing tech-based events, coding contests, and workshops. Played a key role in building collaborations, mentoring junior members, and fostering a strong tech community.
-
+Prepared educational and promotional content for academic events and publications. Supported content development for math competitions, seminars, and knowledge-sharing initiatives.
 
 ---
 
 ## 🏆 Achievements & Competitions
 
 - 🥇 **Hult Prize 2023**: Champion at IUBAT, Dhaka & Selected for Regional Competition in Mumbai, India
-- 🏅 **Technocrats V.2 Hackathon**: "Top Rising Team" title & 4th place (IUBAT 2024)
-- 🎯 **Programming Hero National Hackathon 2024**: Selected for Finals at East West University
+- 🏅 **[Technocrats V.2 Hackathon](https://www.facebook.com/share/1AAD4NNY8v/)**: "Top Rising Team" title & 4th place in IUBAT Dhaka Divisional Hackathon (2024)
+- 🎯 **[Programming Hero National Hackathon 2024](https://www.facebook.com/share/16iEGajtyN/)**: Selected for Finals at East West University National RoboFest 2024
 - 📊 **AI Quest Bangla Sentiment Analysis**: 21st ranking on Kaggle Platform
 - 🤖 **AI 2/DL for NLP - 2025**: 32nd ranking in Homework 2
-- 🔥 **Open AI Hackathon**: Top 10 teams at IUT National ICT Fest 2024
-- 🌍 **Bolt.new AI Hackathon**: Participated in World's Largest AI Hackathon - [VlogGuideAI Project](https://devpost.com/software/vlogguideai)
-- ⛓️ **HackTheVerse by IIT**: Selected in Blockchain segment prelims (2023)
-- 💻 **SUST CSE Fest**: Top 32 teams for onsite Hackathon (2024)
+- 🔥 **[Open AI Hackathon](https://www.facebook.com/share/1G2s7PHshJ/)**: Top 10 teams at Islamic University of Technology National ICT Fest 2024
+- 🌍 **[Bolt.new AI Hackathon](https://devpost.com/software/vlogguideai)**: Participated in World's Largest AI Hackathon - VlogGuideAI Project
+- ⛓️ **[HackTheVerse by IIT](https://www.facebook.com/share/19NzZUm2UV/)**: Team Blockbuster selected in Blockchain segment prelims (University of Dhaka, 2023)
+- 💻 **[SUST CSE Fest](https://www.facebook.com/share/16SLyjMspg/)**: Top 32 teams for onsite Hackathon (Shahjalal University, 2024)
 - 🏃 **CodeSamurai 2024**: Participated in IIT, University of Dhaka contest
 - 📈 **Datathon by Robi**: Participated in 2024 competition
 - 🧠 **AI for Bangla 3.0**: Submitted innovative concept (2024)
@@ -82,6 +85,8 @@ Led a team in organizing tech-based events, coding contests, and workshops. Play
 
 ### 🤖 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
