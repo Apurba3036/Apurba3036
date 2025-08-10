@@ -19,6 +19,18 @@ Currently working as an **Artificial Intelligence Engineer** at **BacBon Limited
 
 Working on advanced AI systems, focusing on generative AI models, language understanding, and automation tools to drive intelligent solutions in real-world applications.
 
+
+### ⛓️ Intern – Blockchain Development
+**Simmec System Limited** | 📅 June 2023 – March 2024 | 📍 Uttara, Dhaka, Bangladesh
+
+Worked on blockchain-based solutions using Ethereum and smart contracts. Gained hands-on experience with Solidity, Web3.js, and tools like MetaMask, Truffle, and Ganache. Contributed to the development and testing of decentralized applications (dApps).
+
+### 🤖 Manager of Robotics Wing
+**IUBAT IT Society** | 📅 January 2022 – October 2024 | 📍 Uttara, Dhaka, Bangladesh
+
+Led a team in organizing tech-based events, coding contests, and workshops. Played a key role in building collaborations, mentoring junior members, and fostering a strong tech community.
+
+
 ---
 
 ## 🏆 Achievements & Competitions
